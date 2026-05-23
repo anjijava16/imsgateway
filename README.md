@@ -4,6 +4,10 @@ LLMGateway
 <img width="1280" height="853" alt="image" src="https://github.com/user-attachments/assets/34ce0570-46e1-4300-bf2a-cae5683c0b8c" />
 
 
+
+<img width="800" height="1200" alt="image" src="https://github.com/user-attachments/assets/9244f8ac-0907-4bca-a707-096fcfa230f2" />
+
+
 ```
 🚨 The hidden problem with most GenAI applications:
 They are tightly coupled to a single LLM provider.
