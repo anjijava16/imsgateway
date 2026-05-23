@@ -3,6 +3,40 @@ LLMGateway
 
 <img width="1280" height="853" alt="image" src="https://github.com/user-attachments/assets/34ce0570-46e1-4300-bf2a-cae5683c0b8c" />
 
+```
+
+As I’m currently exploring LiteLLM, I found it to be a super useful solution for managing and scaling LLM APIs across different providers. Sharing a quick overview here:
+
+🚀 𝑾𝒉𝒂𝒕 𝒊𝒔 𝑳𝒊𝒕𝒆𝑳𝑳𝑴?
+LiteLLM is an open-source LLM gateway and SDK that provides a unified interface to work with multiple AI models like OpenAI, Gemini, Claude, Azure OpenAI, Groq, Mistral, Ollama, and more.
+
+Instead of changing code for every provider, LiteLLM lets you use a single OpenAI-compatible format across all models.
+
+💡 𝑾𝒉𝒚 𝒖𝒔𝒆 𝑳𝒊𝒕𝒆𝑳𝑳𝑴?
+
+🔹Unified API Interface: Use one format for multiple LLM providers.
+🔸Easy Model Switching: Switch between GPT, Gemini, Claude, etc. with minimal code changes.
+🔹Cost & Usage Tracking: Track token usage, latency, and estimated costs.
+🔸Load Balancing & Fallbacks: Improve reliability using retries and provider failover.
+🔹Centralized Gateway: Manage API keys, rate limits, and observability in one place.
+🔸Developer Friendly: Simple integration with existing OpenAI SDK workflows.
+
+🔑 𝑲𝒆𝒚 𝑪𝒐𝒎𝒑𝒐𝒏𝒆𝒏𝒕𝒔
+
+🔹Proxy Server: Central gateway for all LLM requests.
+🔸Providers: OpenAI, Google Gemini, Anthropic , Azure OpenAI, Groq, etc.
+🔹 Routing & Fallbacks: Automatically route requests between models/providers.
+🔸 Observability: Monitor usage, latency, tokens, and cost.
+🔹 Virtual Keys: Secure and manage access for teams/applications.
+
+⚡ LiteLLM makes multi-model AI infrastructure much easier to manage, monitor, and scale for modern AI applications.
+
+Let me know in the comments if you’ve used LiteLLM or any other LLM gateway tools! 👇
+
+Follow me for more tech insights around DevOps, Cloud, AI and Platform Engineering 🔥
+
+
+```
 
 
 <img width="800" height="1200" alt="image" src="https://github.com/user-attachments/assets/9244f8ac-0907-4bca-a707-096fcfa230f2" />
