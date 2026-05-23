@@ -4,7 +4,7 @@ LLMGateway
 <img width="1280" height="853" alt="image" src="https://github.com/user-attachments/assets/34ce0570-46e1-4300-bf2a-cae5683c0b8c" />
 
 
-
+```
 🚨 The hidden problem with most GenAI applications:
 They are tightly coupled to a single LLM provider.
 At first, the architecture looks simple:
@@ -144,3 +144,5 @@ As AI systems evolve into:
 
 LLM orchestration becomes infrastructure.
 The future of AI engineering is not just prompting models. It’s building reliable AI infrastructure around them. 🚀
+
+```
